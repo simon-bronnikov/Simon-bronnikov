@@ -43,5 +43,4 @@
 
 <p align="left">
 <a href="https://t.me/supypop"><img src="https://a11ybadges.com/badge?style=for-the-badge&logo=telegram"/></a>
-<a href="et_tantalus@mail.ru"><img src="https://a11ybadges.com/badge?style=for-the-badge&logo=maildotru"/></a>
 </p>
