@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm S</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Simon Bronnikov</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Simon Bronnikov -->
 
@@ -43,6 +43,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="bronnikov_semyon@mail.ru!"><img src=![Mail.Ru](https://a11ybadges.com/badge?logo=maildotru)/></a>
-<a href="https://t.me/supypop"><img src=![Telegram](https://a11ybadges.com/badge?logo=telegram)/></a>
+<a href="https://t.me/supypop"><img src="https://a11ybadges.com/badge?style=for-the-badge&logo=telegram"/></a>
+<a href="et_tantalus@mail.ru"><img src="https://a11ybadges.com/badge?style=for-the-badge&logo=maildotru"/></a>
 </p>
