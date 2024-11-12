@@ -6,7 +6,6 @@
 
 👨‍💻 &nbsp;I am a beginner Data Engineer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying in Irkutsk National Research Technical University.\
 🌱 &nbsp;I'm on track for learning more about Data Engineering, Data Science, Machine Learning.\
 💬 &nbsp;Feel free to reach out to me for participating in intresting projects.\
 ✉️ &nbsp;You can shoot me an email at bronnikov_semyon@mail.ru! I'll try to respond as soon as I can.\
