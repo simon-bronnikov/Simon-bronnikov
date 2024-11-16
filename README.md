@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Data Engineering, Data Science, Machine Learning.\
 💬 &nbsp;Feel free to reach out to me for participating in intresting projects.\
 ✉️ &nbsp;You can shoot me an email at bronnikov_semyon@mail.ru or @supypop in telegram! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume]([https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp](https://disk.yandex.com/i/T6KGp-ObqDoTvQ)) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
