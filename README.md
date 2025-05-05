@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Data Science, Machine Learning.\
 💬 &nbsp;Feel free to reach out to me for participating in intresting projects.\
 ✉️ &nbsp;You can shoot me an email at bronnikov_semyon@mail.ru or @supypop in telegram! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume]([https://disk.yandex.com/i/T6KGp-ObqDoTvQ]) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my ![Resume]([https://disk.yandex.com/i/T6KGp-ObqDoTvQ]) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
