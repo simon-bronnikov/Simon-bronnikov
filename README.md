@@ -20,7 +20,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)&nbsp;
