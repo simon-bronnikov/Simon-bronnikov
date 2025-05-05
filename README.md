@@ -18,7 +18,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Scikit Learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Scikit Learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
