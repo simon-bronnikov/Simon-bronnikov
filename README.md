@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and try new projects / ideas.\
 🌱 &nbsp;I'm on track for learning more about Data Science, Machine Learning.\
 💬 &nbsp;Feel free to reach out to me for participating in intresting projects.\
-✉️ &nbsp;You can shoot me an email at bronnikov_semyon@mail.ru or @kaprichi in telegram! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at bronnikov_semyon@mail.ru or **@kaprichi** in telegram! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://disk.yandex.ru/i/lcGQY_VxhOJtmA) for more details about me. I'm open to feedback and suggestions!
 
 
