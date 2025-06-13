@@ -47,5 +47,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://t.me/supypop"><img src="https://a11ybadges.com/badge?style=for-the-badge&logo=telegram"/></a>
+<a href="https://t.me/kaprichi"><img src="https://a11ybadges.com/badge?style=for-the-badge&logo=telegram"/></a>
 </p>
